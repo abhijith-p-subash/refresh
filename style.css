@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(32, 39, 51);
+    color: rgb(115, 207, 184);
+    margin: 0%;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 6rem;
+    text-align: center;
+    margin: 2% 0 2% 0;
+}
+
+h3{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    margin: 3% 0 3% 0;
+}
+
+.dicee_1{
+    text-align: center;
+}
+.dicee_2{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin:3% 0 3% 0;
+}
+#title{
+    font-size: 3rem;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    margin: 2px 0 2px 0;
+}
